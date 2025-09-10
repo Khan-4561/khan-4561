@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **ChatGpt,deepseek**
 
-- 👨‍💻 All of my projects are available at [https://khan-4561.github.io/Ali/](https://khan-4561.github.io/Ali/)
+- 👨‍💻 All of my projects are available at [https://khan-4561.github.io/Ali/](https://khan-4561.github.io/portfolio/)
 
 - 💬 Ask me about **Html, Css,Js**
 
